@@ -58,3 +58,17 @@ If you want to trainmodel,you need enter a training folder directory,then run tr
 # Chose GPU to use
 $ CUDA_VISIBLE_DEVICES=0 python train.py (optional patameters...)
 ```
+
+## Reference
+
+Please cite our paper if you find the work useful:
+
+```
+@INPROCEEDINGS{CS_Attention_2022,
+  author={Pan, Jie and Hu, Haigen and Liu, Aizhu and Zhou, Qianwei and Guan, Qiu},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
+  title={A Channel-Spatial Hybrid Attention Mechanism using Channel Weight Transfer Strategy}, 
+  year={2022},
+  pages={2524-2531},
+  doi={10.1109/ICPR56361.2022.9956146}}
+```
